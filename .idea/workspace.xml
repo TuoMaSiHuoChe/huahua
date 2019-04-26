@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9d876c6-f8a7-43fe-82cc-4a5cd35be08e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/huahua_common/target/" />
+    <ignored path="$PROJECT_DIR$/huahua_base/target/" />
+    <ignored path="$PROJECT_DIR$/huahua_recruit/target/" />
+    <ignored path="$PROJECT_DIR$/huahua_qu/target/" />
+    <ignored path="$PROJECT_DIR$/huahua_article/target/" />
+    <ignored path="$PROJECT_DIR$/huahua_gathering/target/" />
+    <ignored path="$PROJECT_DIR$/huahua__qa/target/" />
+    <ignored path="$PROJECT_DIR$/huahua_split/target/" />
+    <ignored path="$PROJECT_DIR$/huahua_search/target/" />
+    <ignored path="$PROJECT_DIR$/huahua_user/target/" />
+    <ignored path="$PROJECT_DIR$/huahua_sms/target/" />
+    <ignored path="$PROJECT_DIR$/huahua_eureka/target/" />
+    <ignored path="$PROJECT_DIR$/huahua_friend/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="JwtUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huahua_common/src/main/java/huahua/until/Jwtutil/JwtUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Article.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/huahua_search/src/main/java/com/huahua/search/pojo/Article.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleDateFormat.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/java/JAVA/JDK/src.zip!/java/text/SimpleDateFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8464">
+              <caret line="420" column="43" selection-start-line="420" selection-start-column="43" selection-end-line="420" selection-end-column="43" />
+              <folding>
+                <element signature="e#23443#23444#0" expanded="true" />
+                <element signature="e#23515#23516#0" expanded="true" />
+                <element signature="e#36124#36125#0" expanded="true" />
+                <element signature="e#36181#36182#0" expanded="true" />
+                <element signature="e#88135#88136#0" expanded="true" />
+                <element signature="e#88196#88197#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateFormatSymbols.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/java/JAVA/JDK/src.zip!/java/text/DateFormatSymbols.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6808">
+              <caret line="352" column="35" selection-start-line="352" selection-start-column="35" selection-end-line="352" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JwtBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="jar://F:/repository/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0-sources.jar!/io/jsonwebtoken/JwtBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1679">
+              <caret line="89" column="29" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Claims.java" pinned="false" current-in-tab="false">
+        <entry file="jar://F:/repository/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0-sources.jar!/io/jsonwebtoken/Claims.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="40" column="57" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClaimsMutator.java" pinned="false" current-in-tab="false">
+        <entry file="jar://F:/repository/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0-sources.jar!/io/jsonwebtoken/ClaimsMutator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="27" column="54" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultJwtBuilder.java" pinned="false" current-in-tab="false">
+        <entry file="jar://F:/repository/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0-sources.jar!/io/jsonwebtoken/impl/DefaultJwtBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4692">
+              <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateJwt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huahua_common/src/test/java/com/huahua/jwt/CreateJwt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3335">
+              <caret line="160" column="41" selection-start-line="160" selection-start-column="41" selection-end-line="160" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>//</find>
+      <find>　</find>
+      <find>modCount</find>
+      <find>int modCount</find>
+      <find>trimToSize</find>
+      <find>\</find>
+      <find>add</find>
+      <find>Claims</find>
+      <find>jwt</find>
+      <find>‐</find>
+      <find>jwt:</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>-</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/huahua_search/src/main/java/com/huahua/search/RecruitApplication.java" />
+        <option value="$PROJECT_DIR$/huahua_user/pom.xml" />
+        <option value="$PROJECT_DIR$/huahua_split/pom.xml" />
+        <option value="$PROJECT_DIR$/huahua_search/pom.xml" />
+        <option value="$PROJECT_DIR$/huahua_recruit/pom.xml" />
+        <option value="$PROJECT_DIR$/huahua_gathering/pom.xml" />
+        <option value="$PROJECT_DIR$/huahua_base/pom.xml" />
+        <option value="$PROJECT_DIR$/huahua__qa/pom.xml" />
+        <option value="$PROJECT_DIR$/huahua_sms/src/main/java/com/huahua/sms/HttpAliyun/HttpUtils.java" />
+        <option value="$PROJECT_DIR$/huahua_sms/src/main/java/com/huahua/sms/SmsApplication.java" />
+        <option value="$PROJECT_DIR$/huahua_sms/pom.xml" />
+        <option value="$PROJECT_DIR$/huahua__qa/src/main/java/com/huahua/qa/client/LabelClient.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/huahua__qa/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/huahua_friend/pom.xml" />
+        <option value="$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/filter/JwtFilter.java" />
+        <option value="$PROJECT_DIR$/huahua__qa/src/main/java/com/huahua/qa/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/huahua_article/src/main/java/com/huahua/article/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/huahua_split/src/main/java/com/huahua/split/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/huahua_article/pom.xml" />
+        <option value="$PROJECT_DIR$/huahua_article/src/main/java/com/huahua/article/dao/CommentDao.java" />
+        <option value="$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/client/LabelClient.java" />
+        <option value="$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/dao/NoFriendDao.java" />
+        <option value="$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/dao/FriendDao.java" />
+        <option value="$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/huahua__qa/src/main/java/com/huahua/qa/controller/ProblemController.java" />
+        <option value="$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/service/FriendService.java" />
+        <option value="$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/pojo/NoFriend.java" />
+        <option value="$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/pojo/Friend.java" />
+        <option value="$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/client/UserClient.java" />
+        <option value="$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/JwtFilter.java" />
+        <option value="$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/config/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/UserApplication.java" />
+        <option value="$PROJECT_DIR$/huahua_split/src/main/java/com/huahua/split/SplitApplication.java" />
+        <option value="$PROJECT_DIR$/huahua_article/src/main/java/com/huahua/article/ArticleApplication.java" />
+        <option value="$PROJECT_DIR$/huahua__qa/src/main/java/com/huahua/qa/qaApplication.java" />
+        <option value="$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/FriendApplication.java" />
+        <option value="$PROJECT_DIR$/huahua_friend/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/huahua_common/src/main/java/huahua/filter/JwtFilter.java" />
+        <option value="$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/controller/FriendController.java" />
+        <option value="$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/controller/BaseExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/huahua_user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/huahua_base/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/huahua_common/src/test/java/com/huahua/jwt/CreateJwt.java" />
+        <option value="$PROJECT_DIR$/huahua_common/src/main/java/huahua/until/Jwtutil/JwtUtil.java" />
+        <option value="$PROJECT_DIR$/huahua_search/src/main/java/com/huahua/search/pojo/Article.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/java/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="C:\java\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="huahua_article" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="huahua_article" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="huahua_sms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="56" />
+    <option name="y" value="4" />
+    <option name="width" value="1512" />
+    <option name="height" value="847" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="huahua_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huahua_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huahua_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huahua_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="huahua_search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huahua_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huahua_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="huahua_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huahua_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huahua_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="huahua_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huahua_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huahua_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="huahua_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huahua_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huahua_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="huahua_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huahua_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huahua_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="huahua_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huahua_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huahua_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="huahua_search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="search" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="Dis*Servlet&#9;PSI&#9;JAVA://org.springframework.web.servlet.DispatcherServlet&#10;maven&#9;ACTION&#9;ActivateMavenProjectsToolWindow" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1543156" />
+    <property name="project.structure.side.proportion" value="0.30461538" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\huawei\huahua_parent\huahua_user\src\main\java\com\huahua\user" />
+      <recent name="E:\huawei\huahua_parent" />
+      <recent name="E:\huawei\huahua_parent\huahua_user\src\main\java\com\huahua\user\config" />
+      <recent name="E:\huawei\huahua_parent\huahua_sms\src\main\java\com\huahua\sms" />
+      <recent name="E:\huawei\huahua_parent\huahua_search\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.huahua.user" />
+      <recent name="com.huahua.friend" />
+      <recent name="com.huahua.friend.client" />
+      <recent name="huahua.filter" />
+      <recent name="com.huahua.article" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\huawei\huahua_parent" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:9008/user" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.118699186" />
+  </component>
+  <component name="RunManager" selected="Application.Article">
+    <configuration name="Article" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huahua.search.pojo.Article" />
+      <module name="huahua_search" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huahua.search.pojo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="CreateJwt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huahua.jwt.CreateJwt" />
+      <module name="huahua_common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huahua.jwt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="EurekaServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="huahua_eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huahua.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huahua.eureka.EurekaServer" />
+    </configuration>
+    <configuration name="SmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="huahua_sms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huahua.sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huahua.sms.SmsApplication" />
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="huahua_user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huahua.user.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huahua.user.UserApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.EurekaServer" />
+      <item itemvalue="Spring Boot.SmsApplication" />
+      <item itemvalue="Application.CreateJwt" />
+      <item itemvalue="Application.Article" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Article" />
+        <item itemvalue="Application.CreateJwt" />
+        <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.SmsApplication" />
+        <item itemvalue="Spring Boot.EurekaServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SpringConfigurationTabSettings">
+    <option name="sortAlpha" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9d876c6-f8a7-43fe-82cc-4a5cd35be08e" name="Default" comment="" />
+      <created>1554883209220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554883209220</updated>
+      <workItem from="1554883214087" duration="3060000" />
+      <workItem from="1554893367302" duration="1769000" />
+      <workItem from="1554896500879" duration="290000" />
+      <workItem from="1554896824926" duration="9274000" />
+      <workItem from="1554942087906" duration="3983000" />
+      <workItem from="1554948014188" duration="26485000" />
+      <workItem from="1555031151369" duration="25964000" />
+      <workItem from="1555238906941" duration="3877000" />
+      <workItem from="1555313835117" duration="4606000" />
+      <workItem from="1555333032450" duration="228000" />
+      <workItem from="1555384829631" duration="14135000" />
+      <workItem from="1555464632166" duration="10907000" />
+      <workItem from="1555567686679" duration="3172000" />
+      <workItem from="1555574728051" duration="6999000" />
+      <workItem from="1555727610255" duration="656000" />
+      <workItem from="1555848037584" duration="21000" />
+      <workItem from="1555901754039" duration="16249000" />
+      <workItem from="1556067109594" duration="1392000" />
+      <workItem from="1556068531256" duration="588000" />
+      <workItem from="1556069151785" duration="300000" />
+      <workItem from="1556069486197" duration="1388000" />
+      <workItem from="1556071033469" duration="877000" />
+      <workItem from="1556071943140" duration="6542000" />
+      <workItem from="1556088807365" duration="2104000" />
+      <workItem from="1556090966437" duration="7752000" />
+      <workItem from="1556102993418" duration="4464000" />
+      <workItem from="1556153181291" duration="17673000" />
+      <workItem from="1556193165410" duration="4229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="178984000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.30044842" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.34221748" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="bottom" id="Tail" order="11" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info id="Structure" order="2" sideWeight="0.24679486" side_tool="true" visible="true" weight="0.29317698" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.09754797" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.39910313" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.3295964" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.24439462" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3295964" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run Dashboard" order="16" weight="0.14798206" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49946696" visible="true" weight="0.30044842" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.3295964" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.3295964" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.7532051" visible="true" weight="0.29317698" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="1" weight="0.32847533" />
+      <window_info id="Alibaba Cloud Explorer" order="0" weight="0.32995737" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="REST Client" order="17" weight="0.35538116" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="2" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/JwtFilter.java" />
+    <entry file="file://$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/org/springframework/boot/spring-boot-autoconfigure/2.0.1.RELEASE/spring-boot-autoconfigure-2.0.1.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/org/springframework/spring-context/5.0.5.RELEASE/spring-context-5.0.5.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="60" column="7" lean-forward="true" selection-start-line="60" selection-start-column="7" selection-end-line="60" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/org/springframework/spring-context/5.0.5.RELEASE/spring-context-5.0.5.RELEASE-sources.jar!/org/springframework/context/annotation/ComponentScans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_split/src/main/java/com/huahua/split/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_split/src/main/java/com/huahua/split/SplitApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="11" column="105" selection-start-line="11" selection-start-column="105" selection-end-line="11" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_search/src/main/java/com/huahua/search/RecruitApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_gathering/src/main/java/com/huahua/gathering/GatheringApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_base/src/main/java/com/huahua/base/BaseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_article/src/main/java/com/huahua/article/ArticleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="32" selection-start-line="32" selection-end-line="32" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua__qa/src/main/java/com/huahua/qa/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua__qa/src/main/java/com/huahua/qa/qaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="21" column="55" selection-start-line="21" selection-start-column="55" selection-end-line="21" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_eureka/src/main/java/com/huahua/eureka/EurekaServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_sms/src/main/java/com/huahua/sms/SmsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_friend/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_friend/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="32" />
+          <folding>
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#955#956#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
+            <element signature="e#1109#1110#0" expanded="true" />
+            <element signature="e#1171#1172#0" expanded="true" />
+            <element signature="e#1212#1213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="985" selection-start-line="985" selection-end-line="985" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/org/springframework/spring-webmvc/5.0.5.RELEASE/spring-webmvc-5.0.5.RELEASE-sources.jar!/org/springframework/web/servlet/HandlerExecutionChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/FriendApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/org/springframework/security/spring-security-crypto/5.0.4.RELEASE/spring-security-crypto-5.0.4.RELEASE-sources.jar!/org/springframework/security/crypto/bcrypt/BCrypt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1527">
+          <caret line="536" column="25" selection-start-line="536" selection-start-column="25" selection-end-line="536" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/org/springframework/security/spring-security-crypto/5.0.4.RELEASE/spring-security-crypto-5.0.4.RELEASE-sources.jar!/org/springframework/security/crypto/bcrypt/BCryptPasswordEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="93" column="26" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1133">
+          <caret line="163" column="41" selection-start-line="163" selection-start-column="41" selection-end-line="163" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2530">
+          <caret line="123" column="32" lean-forward="true" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_friend/src/main/java/com/huahua/friend/controller/FriendController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="38" column="69" selection-start-line="38" selection-start-column="69" selection-end-line="38" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/controller/BaseExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="74" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_base/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-325">
+          <caret line="229" selection-start-line="229" selection-end-line="229" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_common/src/main/java/huahua/filter/JwtFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_user/src/main/java/com/huahua/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3335">
+          <caret line="160" column="41" selection-start-line="160" selection-start-column="41" selection-end-line="160" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_common/src/test/java/com/huahua/jwt/CreateJwt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0-sources.jar!/io/jsonwebtoken/impl/JwtMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="78" column="29" selection-start-line="78" selection-start-column="29" selection-end-line="78" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0-sources.jar!/io/jsonwebtoken/impl/DefaultClaims.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="95" column="13" lean-forward="true" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/JAVA/JDK/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/JAVA/JDK/src.zip!/java/util/Locale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="2312" column="8" selection-start-line="2312" selection-start-column="8" selection-end-line="2312" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/JAVA/JDK/src.zip!/java/text/DateFormatSymbols.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6808">
+          <caret line="352" column="35" selection-start-line="352" selection-start-column="35" selection-end-line="352" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/JAVA/JDK/src.zip!/java/text/FieldPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3190">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/JAVA/JDK/src.zip!/java/text/DontCareFieldPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="34" column="51" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/JAVA/JDK/src.zip!/java/text/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="335" column="43" selection-start-line="335" selection-start-column="43" selection-end-line="335" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/JAVA/JDK/src.zip!/java/text/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8464">
+          <caret line="420" column="43" selection-start-line="420" selection-start-column="43" selection-end-line="420" selection-end-column="43" />
+          <folding>
+            <element signature="e#23443#23444#0" expanded="true" />
+            <element signature="e#23515#23516#0" expanded="true" />
+            <element signature="e#36124#36125#0" expanded="true" />
+            <element signature="e#36181#36182#0" expanded="true" />
+            <element signature="e#88135#88136#0" expanded="true" />
+            <element signature="e#88196#88197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0-sources.jar!/io/jsonwebtoken/impl/DefaultJwtBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4692">
+          <caret line="238" column="19" selection-start-line="238" selection-start-column="19" selection-end-line="238" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0-sources.jar!/io/jsonwebtoken/JwtBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1679">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="25" selection-end-line="89" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/java/JAVA/JDK/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3665">
+          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0-sources.jar!/io/jsonwebtoken/Claims.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="40" column="57" selection-start-line="40" selection-start-column="57" selection-end-line="40" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/io/jsonwebtoken/jjwt/0.6.0/jjwt-0.6.0-sources.jar!/io/jsonwebtoken/ClaimsMutator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_common/src/main/java/huahua/until/Jwtutil/JwtUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="31" column="7" lean-forward="true" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/huahua_search/src/main/java/com/huahua/search/pojo/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="29" column="16" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>huahua__qa:Web exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30461538" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (huahua_recruit)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30461538" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30461538" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30461538" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>huahua_base</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30461538" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.30461538" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
