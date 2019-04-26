@@ -1,0 +1,35 @@
+server: 
+  port: 9004
+spring:
+  data:
+    mongodb:
+      host: 192.168.136.129
+      database: recruitdb
+  application:  
+    name: huahua-article #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.136.129:3306/tensquare_article?useUnicode=true&amp;characterEncoding=UTF8&&useSSL=false
+    username: root
+    password: root
+  jpa: 
+    database: MySQL
+    show-sql: true
+  redis:
+    host: 192.168.136.129
+jwt:
+  config:
+    key: huahua_shequ
+eureka:
+  client: #客户端注册进eureka服务列表内
+    service-url:
+      defaultZone: http://localhost:6868/eureka
+  instance:
+    instance-id: huahua_article  #自定义服务名称信息
+    prefer-ip-address: true     #访问路径可以显示IP地址
+
+info:
+  app.name: 八维云计算
+  company.name: www.bawei.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form action='http://127.0.0.1:9008/email/"+map.get("code")+"' method='post'>
+    <input type='hidden' value='"+map.get("mobile")+"' name='email'>
+    <button>点击此处完成注册</button>
+</form>
+</body>
+</html>

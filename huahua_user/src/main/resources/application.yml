@@ -1,0 +1,38 @@
+server: 
+  port: 9008
+spring:
+  application:  
+    name: huahua-user #指定服务名
+  datasource:  
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.136.129:3306/tensquare_user?useUnicode=true&&characterEncoding=UTF8
+    username: root
+    password: root
+  redis:
+    host: 192.168.136.129
+  rabbitmq:
+    host: 192.168.136.129
+  jpa: 
+    database: MySQL
+    show-sql: true
+  security:
+    user:
+      name: user
+      password: 123
+jwt:
+  config:
+    key: huahua_shequ
+    ttl: 360000
+eureka:
+  client: #客户端注册进eureka服务列表内
+    service-url:
+      defaultZone: http://localhost:6868/eureka
+  instance:
+    instance-id: huahua_user   #自定义服务名称信息
+    prefer-ip-address: true     #访问路径可以显示IP地址
+
+info:
+  app.name: 八维云计算
+  company.name: www.bawei.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$

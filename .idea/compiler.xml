@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="huahua__qa" />
+        <module name="huahua_article" />
+        <module name="huahua_base" />
+        <module name="huahua_common" />
+        <module name="huahua_eureka" />
+        <module name="huahua_friend" />
+        <module name="huahua_gathering" />
+        <module name="huahua_recruit" />
+        <module name="huahua_search" />
+        <module name="huahua_sms" />
+        <module name="huahua_split" />
+        <module name="huahua_user" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="huahua_qu" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
