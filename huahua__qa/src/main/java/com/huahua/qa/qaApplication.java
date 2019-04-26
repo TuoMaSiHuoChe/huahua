@@ -22,6 +22,7 @@ public class qaApplication {
 		SpringApplication.run(qaApplication.class, args);
 	}
 
+	//这就是一个注释
 	@Bean
 	public IdWorker idWorkker(){
 		return new IdWorker(1, 1);
