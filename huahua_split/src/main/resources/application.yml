@@ -1,0 +1,33 @@
+server: 
+  port: 9006
+spring: 
+  application:  
+    name: huahua_split
+  data:
+    mongodb:
+      host: 192.168.136.129
+      database: spitdb
+  redis:
+    host: 192.168.136.129
+
+eureka:
+  client: #客户端注册进eureka服务列表内
+    service-url:
+      defaultZone: http://localhost:6868/eureka
+  instance:
+    instance-id: huahua_split   #自定义服务名称信息
+    prefer-ip-address: true     #访问路径可以显示IP地址
+
+info:
+  app.name: 八维云计算
+  company.name: www.bawei.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+
+logging:
+  level:
+    root : info
+
+jwt:
+  config:
+    key: huahua_shequ

@@ -1,0 +1,41 @@
+server:
+ port: 9009
+spring:
+ application:
+  name: tensquare-sms #指定服务名
+ rabbitmq:
+  host: 192.168.136.129
+ mail:
+    host: smtp.qq.com
+    username: 3211141074@qq.com
+    password: vcizccaqoigfdfcd
+    default-encoding: UTF-8
+    properties:
+      mail:
+        smtp:
+          starttls:
+            enable: true
+            required: true
+          auth: true
+
+HOST: http://yuyintz.market.alicloudapi.com
+PATH: /ts/voiceNotifySms
+METHOD: POST
+APPCODE: 48d077464e0d4c3b86b2a33ace4b1dab
+TYPEID: TP1901161
+
+
+
+eureka:
+  client: #客户端注册进eureka服务列表内
+    service-url:
+      defaultZone: http://localhost:6868/eureka
+  instance:
+    instance-id: huahua_sms   #自定义服务名称信息
+    prefer-ip-address: true     #访问路径可以显示IP地址
+
+info:
+  app.name: 八维云计算
+  company.name: www.bawei.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
